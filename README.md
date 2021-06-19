@@ -9,5 +9,5 @@ https://github.com/yoricsv/Data_Types.git
 ---: | :---
 file | *README.md*
 application type | *Console progrem*
-brief | *I learn Data Types*
+brief | *I learn C++ Data Types*
 Note | 
